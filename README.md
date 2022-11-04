@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=i5s&label=Profile%20views&color=0e75b6&style=flat" alt="i5s" /> </p>
 
-- 🔭 I’m currently working on **NOT YET**
+- 🔭 I’m currently working on **LIBFT-MAIN**
 
 - 🌱 I’m currently learning **#C #C++**
 
